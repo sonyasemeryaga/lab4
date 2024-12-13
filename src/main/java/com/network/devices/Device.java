@@ -2,9 +2,6 @@ package main.java.com.network.devices;
 
 import main.java.com.network.parameters.*;
 
-import java.util.Objects;
-
-
 public class Device {
     private final Name name;
     private final DeviceType type;
